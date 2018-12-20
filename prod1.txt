@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Lets play with brancas!
-=======
 This is file prod1.txt from master
->>>>>>> master
